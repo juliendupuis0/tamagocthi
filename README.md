@@ -1,3 +1,3 @@
 # 1- Download ZIP
-# 2- Visionner la vidéo pour savoir lancer le projet :
+# 2- Visionner la vidéo :
 [-> lien de la vidéo](https://youtu.be/JXmjTpp-rYE)
